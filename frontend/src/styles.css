@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; background: #f2f4f7; margin: 0; padding: 20px }
+.container { max-width: 420px; margin: 20px auto }
+.card { background: #fff; padding: 16px; border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,0.06) }
+label { display: block; margin-bottom: 10px }
+input { width: 100%; padding: 8px; margin-top: 6px; box-sizing: border-box }
+button { padding: 10px 14px; margin-top: 8px; width: 100% }
+.result { margin-top: 12px; background: #fff; padding: 12px; border-radius: 8px }
+.note { margin-top: 12px; font-size: 0.9rem }
